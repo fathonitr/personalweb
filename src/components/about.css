@@ -1,0 +1,12 @@
+.about {
+  margin: auto;
+  width: 80%;
+  background-color: wheat;
+  text-align: center;
+}
+
+.text {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
